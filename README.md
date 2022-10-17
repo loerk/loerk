@@ -1,4 +1,4 @@
-## Hi, I'm Francis
+# Hi, I'm Francis
 
 - 🔭 I’m currently working on [recoMe](https://reco-me.vercel.app/)
 
