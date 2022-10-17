@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Franziska</h1>
 <h3 align="center">A passionate Frontend Developer from Berlin</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loerk" alt="loerk" /></a> </p>
-
 - 🔭 I’m currently working on [recoMe](https://reco-me.vercel.app/)
 
-- 🌱 I’m currently learning **typescript, vue, redux toolkit**
+- 🌱 I’m currently learning **typescript, vue**
 
 - 👨‍💻 All of my projects are available at [franziskaseitz.com](franziskaseitz.com)
 
