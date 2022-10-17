@@ -6,7 +6,7 @@
     ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)&nbsp;
 ![VUE](https://img.shields.io/badge/VUE-purple?style=for-the-badge&logo=VUE&logoColor=white)&nbsp;
 
-- 👨‍💻 All of my projects are available at [franziskaseitz.com](franziskaseitz.com)
+- 👨‍💻 All of my projects are available at [my website](https://franziskaseitz.com/)
 
 - Always happy to connect here [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franziska-seitz-001b92225/)
 
