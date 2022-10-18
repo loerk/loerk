@@ -1,6 +1,6 @@
 # Hi there, I'm Francis
 
-I changed from debugging people as a physiotherapist to degugging code and i love it! I finally got to know the state of mind where time and space just disappear. As a creative mind i like building, shaping and creating new worlds with code. Apart from that i like trekking, reading books and coffee!
+I changed from debugging people as a physiotherapist to degugging code and i love it! I finally got to know the state of mind where time and space just disappear. As a creative mind i like building, shaping and creating new worlds with code. Apart from that i like trekking, books and coffee!
 
 - 🔭 I'm currently working on [recoMe](https://reco-me.vercel.app/)
 
