@@ -5,12 +5,12 @@ I changed from debugging people as a physiotherapist to degugging code and i lov
 - 🔭 I'm currently working on [recoMe](https://reco-me.vercel.app/)
 
 - 🌱 I'm currently learning 
-    ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
-![VUE](https://img.shields.io/badge/VUE-purple?style=for-the-badge&logo=VUE&logoColor=white)
+    [TypeScript](https://www.typescriptlang.org/),
+[Vue.js](https://vuejs.org/)
 
 - 👨‍💻 All of my projects are available at [my website](https://franziskaseitz.com/)
 
-- I'm always happy to connect [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franziska-seitz-001b92225/)
+- ✨ I'm always happy to connect [here](https://www.linkedin.com/in/franziska-seitz-001b92225)
 
 
 
