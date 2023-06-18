@@ -6,7 +6,7 @@ I changed from debugging people as a physiotherapist to degugging code and i lov
 
 - 🌱 I'm currently learning 
     [TypeScript](https://www.typescriptlang.org/),
-[Vue.js](https://vuejs.org/)
+[GraphQL](https://spec.graphql.org/)
 
 - 👨‍💻 All of my projects are available at [my website](https://franziskaseitz.com/)
 
