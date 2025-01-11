@@ -11,10 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=3077c6)
 
-![Next](https://img.shields.io/badge/NEXT-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-FFFFFF?style=for-the-badge&logo=recoil&logoColor=black)
 
@@ -23,11 +22,13 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=37BCF8)
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-ffffff?style=for-the-badge&logo=mui&logoColor=w0160c1)
 
+![Next.js](https://img.shields.io/badge/NEXT-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQl](https://img.shields.io/badge/Graphql-1B1B1B?style=for-the-badge&logo=graphql&logoColor=C0007C)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## GitHub Stats
 
