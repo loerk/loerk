@@ -1,8 +1,8 @@
 # Hi there, I'm Francis
 
-- 👨‍💻 All of my projects are available at [my website](https://franziskaseitz.com/)
+👨‍💻 All of my projects are available at [my website](https://franziskaseitz.com/)
 
-- ✨ I'm always happy to connect [here](https://www.linkedin.com/in/franziska-seitz-001b92225)
+✨ I'm always happy to connect [here](https://www.linkedin.com/in/franziska-seitz-001b92225)
 
 
 
